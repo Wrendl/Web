@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#img1{
+    position: absolute;
+    width:50%;
+    height: 900px;
+}
+.info1{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: 300px;
+    font-family: monospace;
+    color: white;
+}
+.right-top{
+    float: left;
+    margin-left: 1250px;
+    margin-top: 40px;
+}
+.right-top input[type="text"]{
+    height: 30px;
+    margin-bottom: 15px;
+    padding: 2px;
+    border: white;
+    margin-left: 10px;
+}
+.right-top input[type="submit"]{
+    color: rgb(9, 145, 207);
+    border:1px solid rgb(9, 145, 207);
+    border-radius: 30px;
+    font-size: 15px;
+    font-family: monospace;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#top1{
+    font-size: 14px;
+    font-family: monospace;
+    color: #b9b8b8;
+    margin-left: 200px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.right{
+    float: left;
+    margin-left: 1250px;
+    margin-top: 200px;
+}
+.right h2{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+}
+.right h3{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+}
+.button1 input[type="submit"]{
+    background: rgb(9, 145, 207);
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: monospace;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.button2 input[type="submit"]{
+    color: rgb(9, 145, 207);
+    border:1px solid rgb(9, 145, 207);
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: monospace;
+    padding-left: 167px;
+    padding-right: 167px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.foot{
+    float: left;
+    margin-top: 320px;
+    margin-left: 170px;
+}
+.foot p{
+    font-size: 13px;
+    word-spacing: 10px;
+}
+.foot p a{
+    text-decoration: none;
+    color: #adacac;
+}

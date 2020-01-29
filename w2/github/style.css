@@ -1,0 +1,181 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    background-color: #232327;
+    height: 90px;
+}
+.top{
+    width: 1380px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.github-img{
+    float: left;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.why{
+    float: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.why label{
+    color: white;
+    margin-left: 15px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.why section{
+    color: white;
+}
+.search{
+    float: left;
+    margin-left: 350px;
+    margin-right: 15px;
+}
+.search input[type="text"]{
+    margin-top: 10px;
+    background: #595a5c;
+    color: white;
+    border: 0px solid #01091b;
+    padding-top: 7px;
+    padding-left: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+    padding-right: 40px;
+}
+.button1{
+    margin-top: 14px;
+    float: left;
+    margin-right: 15px;
+}
+.button1 input[type="submit"]{
+    background: #232327;
+    color: white;
+    border: 0px solid #01091b;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: monospace;
+    letter-spacing: -1px;
+}
+.button2{
+    margin-top: 12px;
+    float: left;
+}
+.button2 input[type="submit"]{
+    background: #232327;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 18px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    border-radius: 5px;
+    font-family: monospace;
+    letter-spacing: -1px;
+}
+.bodyy{
+    background: #383838;
+    height: 800px;
+}
+.left{
+    float: left;
+    margin-top: 150px;
+    margin-left: 470px;
+}
+.left h1{
+    font-size: 70px;
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: -2px;
+    font-weight: 200;
+}
+.left p{
+    color:#78797c;
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    font-weight: 100px;
+    font-size: 20px;
+}
+.left p a{
+    text-decoration: underline;
+    color: white;
+}
+.right{
+    float: left;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 48px;
+    margin-left: 160px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.right label{
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;
+    font-weight: 500;
+}
+.right input[type="text"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    border: 0.05px solid #727272;
+    padding-top: 11px;
+    padding-left: 7px;
+    padding-bottom: 11px;
+    font-size: 15px;
+    padding-right: 190px;
+}
+.right input[type="password"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    border: 0.05px solid #727272;
+    padding-top: 11px;
+    padding-left: 7px;
+    padding-bottom: 11px;
+    font-size: 15px;
+    padding-right: 190px;
+}
+#one{
+    font-size: 14px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+#one a{
+    text-decoration: none;
+    color: #305bc0;
+}
+.button3{
+    margin-left: 15px;
+}
+.button3 input[type="submit"]{
+    background: #09a13c;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    padding-top: 17px;
+    padding-left: 100px;
+    padding-bottom: 17px;
+    padding-right: 100px;
+    border-radius: 5px;
+    font-family: monospace;
+    letter-spacing: -1px;
+    margin-bottom: 20px;
+}
+#two{
+    font-size: 13px;
+    color: #595a5c;
+}
+#two a{
+    color: #305bc0;
+    text-decoration: none;
+    cursor: pointer;
+}

@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    background: #415e9b;
+    height: 82px;
+}
+.top{
+    width: 990px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.facebook-img{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.login-class{
+    width: 50%;
+    float: left;
+}
+.top label{
+    color: white;
+}
+.login-div{
+    float: left;
+    margin-right: 5px;
+}
+.password-div{
+    float: left;
+    margin-right: 5px;
+}
+.submit-button{
+    float: left;
+    margin-top: 17px;
+
+}
+#link-forgot{
+    color: #8fb1d8;
+    text-decoration: none;
+}
+.submit-button input[type="submit"]{
+    background: #4267b2;
+    color: white;
+    border: 1px solid #01091b;
+    cursor: pointer;
+}
+.bodyy{
+    width: 990px;
+    margin: 0 auto;
+}
+#pa{
+    color: #0c2864;
+    font-size: 20px;
+    font-weight: bold;
+}
+.first{
+    margin-top: 50px;
+    float: left;
+    width: 50%;
+}
+.second{
+    float: left;
+    width: 50%;
+}
+.second h2{
+    font-size: 40px;
+}
+
+.second .fast{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.info input[type="text"]{
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 2px;
+}
+.info .mail, .info .new-pass{
+    width: 71%;
+}
+.info h3{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 3px;
+    color: #a8aaaf;
+}
+.info label{
+    font-size: 20px;
+    margin-right: 10px;
+}
+#last{
+    margin-top: 10px;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.info input[type="submit"]{
+    background: #1da329;
+    color: white;
+    border:1px solid #000000;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+.info p a{
+    color: #4267b2;
+    text-decoration: none;
+}
+#lastt{
+    margin-top: 20px;
+}
+.foot{
+    float: left;
+    margin-left: 450px;
+    margin-top: 80px;
+}
+.foot p{
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px;
+    word-spacing: 5px;
+}
+.foot p a{
+    color: #4267b2;
+    text-decoration: none;
+}
+.foot h6{
+    color: #818283;
+    font-size: 12px;
+}
