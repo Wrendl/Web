@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    background: black;
+    height: 50px;
+}
+.top h2{
+    color: white;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.body{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.inp{
+    margin-top: 10px;
+    margin-left: 28px;
+    width: 300px;
+    height: 20px;
+    margin-bottom: 15px;
+}
+.btn{
+    height: 20px;
+    width: 35px;
+    border: 1px rgb(26, 56, 228);
+    border-radius: 3px;
+    background: rgb(26, 56, 228);
+    color: white;
+}
+.items label{
+    margin-left: 15px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+}
+.items p{
+    margin-top: 15px;
+}
+.items img{
+    position: absolute;
+    margin-left: 360px;
+    width: 30px;
+    height: 19px;
+    cursor: pointer;
+}

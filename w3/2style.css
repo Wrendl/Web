@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul li {
+    left: 500px;
+    cursor: pointer;
+    position: relative;
+    padding: 10px 10px 10px 50px;
+    font-size: 18px;
+}
+ul li.checked {
+    color: black;
+    text-decoration: line-through;
+}
+  
+  /* Add a "checked" mark when clicked on */
+ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: darkblue;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+}
+.close {
+    position: absolute;
+    right: 1000px;
+    top: 0;
+    margin-top: 8px;
+    height: 20px;
+    width: 20px;
+}
+.header {
+    background-color: white;
+    padding: 30px 40px;
+}
+.header h2{
+    padding-top: 15px;
+    height: 60px;
+    background-color: black;
+    color: grey;
+    margin-bottom: 40px;
+    padding-left: 400px;
+}
+.header h3{
+    margin-left: 500px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+input {
+    border: 1px solid grey;
+    width: 800px;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+    margin-left: 500px;
+}
+.addBtn {
+    padding: 10px;
+    width: 50px;
+    background: blue;
+    color:white;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 30px;
+}
