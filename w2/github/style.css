@@ -32,7 +32,7 @@
 }
 .search{
     float: left;
-    margin-left: 350px;
+    margin-left: 390px;
     margin-right: 15px;
 }
 .search input[type="text"]{
@@ -125,7 +125,7 @@
 .right input[type="text"]{
     margin-top: 10px;
     margin-bottom: 10px;
-    color: white;
+    color: black;
     border: 0.05px solid #727272;
     padding-top: 11px;
     padding-left: 7px;
@@ -136,7 +136,7 @@
 .right input[type="password"]{
     margin-top: 10px;
     margin-bottom: 10px;
-    color: white;
+    color: black;
     border: 0.05px solid #727272;
     padding-top: 11px;
     padding-left: 7px;
